@@ -132,6 +132,11 @@ The dataset used by the project is processed in:
 datasets/Car Dataset Processed.csv
 ```
 
+## 📸 Screenshots
+A quick preview of the Car Price Prediction web application interface:
+
+![Car Price Prediction App](screenshot.png)
+
 ## 🎯 Project Objectives
 The main objectives of this project are:
 
