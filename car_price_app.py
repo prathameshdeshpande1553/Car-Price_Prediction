@@ -10,7 +10,7 @@ st.set_page_config(
 
 model = pk.load(open('carprice_charges.pkl', 'rb'))
 scaler = pk.load(open('scaler.pkl', 'rb'))
-df = pd.read_csv('../../datasets/Car Dataset Processed.csv')
+df = pd.read_csv('Car Dataset Processed.csv')
 
 st.title("🚗 CAR PRICE PREDICTOR")
 st.caption("Fill in the vehicle specifications below to estimate the market value.")
