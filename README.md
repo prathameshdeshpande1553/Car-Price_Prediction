@@ -1,5 +1,9 @@
 # 🚗 Car Price Prediction Web App
 
+### 🔗 Live App Demo
+👉 **[Click here to view the Live App](https://car-priceprediction-nrcb6appljiz3rrbrtvwza.streamlit.app)**
+---
+
 
 ## 📝 Project Description
 Buying or selling a used car often involves uncertainty regarding its actual market value. This project bridges that gap by leveraging a machine learning Linear Regression model trained on historical vehicle data. It features an interactive and user-friendly web interface built with Streamlit, enabling users to instantly estimate used car prices in Lakhs based on comprehensive vehicle specifications.
